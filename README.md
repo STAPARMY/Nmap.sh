@@ -2,7 +2,7 @@
 This tool is nmap tool is used by scanning tool.
 
 
-#This tool install command is :
+Installing and requirements
 1 apt update 
 2 apt upgrade -y
 3 apt install nmap -y
