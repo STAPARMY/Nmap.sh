@@ -2,11 +2,11 @@
 This tool is nmap tool is used by scanning tool.
 
 This tool install command is :
-apt update
-apt upgrade -y 
+apt update 
+apt upgrade -y
 apt install nmap -y
-apt insall git -y
-git clone 
+apt install git 
+git clone https://github.com/STAPARMY/Nmap.sh.git
 ./nmap.sh
 
 
